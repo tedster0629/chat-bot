@@ -80,6 +80,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This project was inspired by the capabilities of OpenAI's API.
 
 ## Contact
-For any inquiries or questions, you can reach me at tyleroneildev@gmail.com
-or on my linkedin at https://ca.linkedin.com/in/tyler-oneil-dev
+For any inquiries or questions, you can reach me at tedster0629@gmail.com
 
